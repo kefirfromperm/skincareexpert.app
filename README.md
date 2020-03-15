@@ -1,2 +1,2 @@
 # Skincare Expert
-skincareexpert.app (c) 2020 Vitalii Samolovskikh
+skincareexpert.app &copy; 2020 Vitalii Samolovskikh
