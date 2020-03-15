@@ -1,2 +1,2 @@
-# skincareexpertapp
-The site skincareexpert.app
+# Skincare Expert
+skincareexpert.app (c) 2020 Vitalii Samolovskikh
